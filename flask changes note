@@ -1,0 +1,11 @@
+activate your virtual environment
+	-- source venv/Script/activate
+	
+export your flask application (main file)
+	-- export Flask_APP=app.py
+	
+export your environment
+	-- export Flask_ENV=development
+	
+run your app
+	--flask run
